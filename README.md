@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaniZone
-- 👀 I’m interested in network security and Artifical intelligence
-- 🌱 I’m currently learning Deep and machine learning,pattern recognition
+- 👀 I’m interested in  Artifical intelligence.
+- 🌱 I’m currently learn Artifical intelligence and I’m FullStack
 - 📫 How to reach me : https://www.linkedin.com/in/hanieh-molavi-134aa0225
 <!---
 HaniZone/HaniZone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
